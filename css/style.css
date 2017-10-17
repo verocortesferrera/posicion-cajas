@@ -1,0 +1,45 @@
+
+#box-one, #box-two{
+	display:block;
+}
+.red{
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	position: absolute;
+}
+
+.purpure{
+	width: 150px;
+	height: 150px;
+	background-color: #7F0F7E;
+	position: absolute; left: 80px; top: 80px;
+}
+
+.yellow{
+	width: 80px;
+	height: 80px;
+	background-color: yellow;
+	position: absolute; left: 80px; top: 80px;
+}
+
+.blue{
+	width: 300px;
+	height: 300px;
+	background-color: blue;
+	position: absolute;
+	margin-top:320px;
+}
+
+.green{
+	width: 150px;
+	height: 150px;
+	background-color: green;
+	position: absolute; left: 80px; top: 400px;
+}
+
+.black{
+	width: 73px;
+	height: 73px;
+	background-color: black;
+	position: absolute; top: 328px;
